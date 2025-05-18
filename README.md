@@ -1,40 +1,35 @@
 # DEVUS Universal Framework
 
-## Overview
-DEVUS Universal Framework represents a revolutionary paradigm shift in how we approach fundamental concepts in science and technology. It unifies security, information, energy, computation, and spatiotemporal structures through mathematical invariants, without relying on AI, cryptography, steganography, or obfuscation.
+## What is DEVUS?
+DEVUS Universal Framework is a revolutionary paradigm that unifies security, information, energy, cognition, and spatiotemporal structure through mathematical invariants without reliance on AI, cryptography, or obfuscation.
 
 ## The Five Pillars
-1. **Security** - Mathematically provable security through physical laws
-2. **Information & Communication** - Information as mathematical invariant
+1. **Security** - Mathematically provable security through the laws of physics
+2. **Information & Communication** - Information as a mathematical invariant
 3. **Energy & Transformation** - Energy as mathematical transformation
 4. **Computation & Cognition** - Computation and consciousness as invariants
 5. **Spatiotemporal Structure** - Spacetime as mathematical relation
 
 ## Core Principles
-* **Mathematical necessity** over algorithmic complexity
-* **Physical laws** over computational strength
+* **Mathematical necessity** over complexity
+* **Physical laws** over algorithmic strength
 * **Transparency** over obfuscation
 * **Universality** over specialization
 
 ## Crown Jewels
-Each pillar contains "crown jewels" - mathematical sweet spots where different concepts intersect to create something greater than the sum of their parts:
+Each pillar contains "crown jewels" - mathematical sweet spots where different concepts meet and create something greater than the sum of their parts.
 
-- **Physical-Temporal-Topological Impossibility Proof (PTTIP)**
-- **Symplectic-Cohomological Emergence Validation (SCEV)**
-- **Multidimensional Physical Provability (MPP)**
-- **Brouwerian Contradiction Validation (BCV)**
-
-## Project Status
+## Status
 This project is in early conceptual stage. We welcome contributions from mathematicians, physicists, computer scientists, and thinkers from all disciplines.
 
 ## Vision
-Our vision is to create a new paradigm where security, information processing, and cognition all derive from universal mathematical principles, without dependence on secrets, cryptography, or centralized control.
+Our vision is to create a new paradigm where security, information processing, and cognition are all derived from universal mathematical principles, without reliance on secrets, cryptography, or centralized control.
 
 ## Getting Started
 See the [documentation](/docs/overview.md) for a deeper introduction to the framework.
 
+## Contributing
+We welcome contributions from all backgrounds and expertise levels. See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to contribute.
+
 ## License
 This project is licensed under the MIT License with an ethical use clause - see the [LICENSE](LICENSE) file for details.
-
-## Contributing
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
