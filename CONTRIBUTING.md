@@ -1,58 +1,66 @@
 # Contributing to DEVUS Universal Framework
 
-First of all, thank you for considering contributing to DEVUS! This is a community-driven project that aims to revolutionize our fundamental approach to security, information, energy, computation, and spatiotemporal structures.
+First off, thank you for considering contributing to DEVUS Universal Framework! It's people like you that make DEVUS a revolutionary paradigm for the benefit of humanity.
 
 ## How Can I Contribute?
 
-### Theoretical Contributions
-- **Mathematical Formalization**: Help formalize the mathematical foundations of the framework
-- **Physical Interpretation**: Develop the physical interpretation of mathematical invariants
-- **Theoretical Extensions**: Propose extensions to the theoretical framework
+### Reporting Issues
 
-### Practical Contributions
-- **Reference Implementations**: Implement core concepts in code
-- **Proof of Concepts**: Develop practical applications demonstrating the principles
-- **Testing Methodologies**: Create methods to validate the principles in real-world settings
+* Use the GitHub issue tracker to report issues
+* Describe the issue in detail, including steps to reproduce
+* Specify which pillar or component is affected
 
-### Documentation Contributions
-- **Theoretical Documentation**: Improve explanations of mathematical concepts
-- **Tutorials**: Create beginner-friendly material
-- **Application Guides**: Document practical applications
+### Suggesting Enhancements
 
-## Contribution Process
+* Use the GitHub issue tracker with the enhancement label
+* Clearly describe the enhancement and how it aligns with DEVUS principles
+* Explain how this enhancement benefits one or more pillars
 
-1. **Find an Issue**: Look for open issues or create a new one describing what you want to work on
-2. **Fork the Repository**: Create your own fork of the project
-3. **Create a Branch**: Make your changes in a new branch
-4. **Develop Your Contribution**: Make your changes, following our code/documentation standards
-5. **Submit a Pull Request**: When ready, submit a PR with a clear description of your changes
+### Code Contributions
 
-## Mathematical Rigor
+1. Fork the repository
+2. Create a new branch for your feature
+3. Add your changes
+4. Submit a pull request
+5. Ensure your code follows our principles and standards
 
-DEVUS is fundamentally a mathematical framework. When contributing, please:
+## Our Development Philosophy
 
-- Provide formal definitions and proofs where appropriate
-- Clearly state assumptions and limitations
-- Reference established mathematical literature
-- Use standard mathematical notation
+DEVUS is built on principles of mathematical invariance, physical laws, and democratic access. When contributing, consider:
 
-## Community Principles
+* **Mathematical precision**: Does your contribution maintain mathematical rigor?
+* **Physical grounding**: Is your contribution grounded in physical reality?
+* **Transparency**: Is your code transparent and easy to understand?
+* **Universality**: Does your contribution work universally without specialized knowledge?
 
-This project operates under a set of core principles:
+## Development Process
 
-1. **Democratic Values**: The framework must support and enhance democratic principles
-2. **Universal Accessibility**: Knowledge should be accessible to all
-3. **Intellectual Honesty**: Be transparent about limitations and uncertainties
-4. **Collaborative Growth**: Build on others' ideas constructively
+1. **Conceptual development**: Theoretical frameworks and mathematical models
+2. **Mathematical validation**: Formal proof or validation of concepts
+3. **Reference implementation**: Creation of minimal working examples
+4. **Integration**: Integration with other pillars and components
+5. **Documentation**: Thorough explanation and examples
 
-## Communication
+## Community
 
-- **GitHub Issues**: For specific technical discussions
-- **Discord/Slack**: For general discussions and community building
-- **Regular Meetings**: Join our bi-weekly open meetings
+Join our community discussions:
+* GitHub Discussions
+* [Planned Discord/community link]
 
-## First-time Contributors
+## Documentation Standards
 
-If you're new to the project, look for issues tagged with "good first issue" or "beginner friendly". These are designed to be more accessible entry points.
+* Use clear, concise language
+* Include mathematical notation where appropriate
+* Provide examples of application
+* Link to related concepts within DEVUS
+* Explain how your documentation fits into the broader DEVUS framework
 
-We look forward to your contributions!
+## Code of Conduct
+
+Please read and adhere to our [Code of Conduct](CODE_OF_CONDUCT.md).
+
+## Questions?
+
+Feel free to open an issue with the question label if you have any questions about contributing.
+
+Thank you for being part of this revolution in mathematical-physical security and universal frameworks!
