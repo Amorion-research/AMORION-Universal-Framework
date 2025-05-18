@@ -1,4 +1,4 @@
-# Code of Conduct
+# DEVUS Universal Framework Code of Conduct
 
 ## Our Pledge
 
@@ -22,22 +22,28 @@ Examples of unacceptable behavior include:
 * Publishing others' private information, such as a physical or electronic address, without explicit permission
 * Other conduct which could reasonably be considered inappropriate in a professional setting
 
-## DEVUS-Specific Values
+## Ethics and Democratic Values
 
-In addition to general ethical standards, DEVUS community members pledge to:
+As DEVUS is fundamentally aligned with democratic values and ethical use of technology, we additionally expect all participants to:
 
-* Uphold democratic values in all project decisions
-* Reject implementations that could enable authoritarian control
-* Maintain transparency in all technical discussions
-* Consider the ethical implications of all contributions
-* Prioritize universal access to knowledge over exclusivity
+* Respect and uphold democratic principles
+* Consider the ethical implications of contributions
+* Refrain from contributing implementations that could undermine democratic institutions
+* Support transparency and open verification of all aspects of the framework
+* Prioritize universal benefit over narrow interests
 
-## Enforcement Responsibilities
+## Our Responsibilities
 
 Project maintainers are responsible for clarifying the standards of acceptable behavior and are expected to take appropriate and fair corrective action in response to any instances of unacceptable behavior.
 
-Project maintainers have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct, or to ban temporarily or permanently any contributor for other behaviors that they deem inappropriate, threatening, offensive, or harmful.
-
 ## Scope
 
-This Code of Conduct applies both within project spaces and in public spaces when an individual is representing
+This Code of Conduct applies both within project spaces and in public spaces when an individual is representing the project or its community.
+
+## Enforcement
+
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team. All complaints will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances. The project team is obligated to maintain confidentiality with regard to the reporter of an incident.
+
+## Attribution
+
+This Code of Conduct is adapted from the [Contributor Covenant](http://contributor-covenant.org), version 1.4, available at [http://contributor-covenant.org/version/1/4](http://contributor-covenant.org/version/1/4/)
