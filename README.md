@@ -22,8 +22,6 @@ AMORION is an open, modular, and extensible framework designed to provide a theo
 
 ## License
 
-## License
-
 AMORION is licensed under the [Anti-Patent License](https://anti-patent.org/). 
 
 This license explicitly:
