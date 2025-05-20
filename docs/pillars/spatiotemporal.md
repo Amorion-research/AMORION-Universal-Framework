@@ -1,33 +1,27 @@
 # Spatiotemporal Network Architecture
 
-## 1. Definition and Principles
+This document openly details network design as four-dimensional systems where time is an active dimension for addressing, routing, and fragmentation.
 
-The Spatiotemporal Network Architecture represents a fundamental reconceptualization of networks from purely spatial structures to four-dimensional constructs that explicitly incorporate time as a first-class dimension for routing, storage, and processing.
+## Principles
+- Four-dimensional topology: Networks are modeled as 4D manifolds.
+- Temporal fragmentation: Data is distributed over spatiotemporal coordinates.
+- Dynamic density routing: Traffic is managed based on both spatial and temporal load.
+- Temporal addressing: Nodes and packets are assigned explicit time windows.
+- Isomorphic transformation: Network problems are transformed between space and time.
 
-### Core Principles:
+## Model
+The optimal path P minimizes M(P) = α·S(P) + β·T(P) + γ·D(P), where S = spatial distance, T = temporal distance.
 
-1. **Four-Dimensional Topology**: Networks are modeled as 4D manifolds, with time as an explicit routing dimension alongside the traditional three spatial dimensions.
+## Implementability
+- Addressing schemes, fragmentation, and routing algorithms are described for implementation.
+- Examples: Spatiotemporal routing, fragment recomposition, density computation.
 
-2. **Temporal Fragmentation**: Information is fragmented not only across spatial nodes but across temporal coordinates, creating resilience through spatiotemporal distribution.
+## Applicability
+- Resilient data transmission, congestion management, self-organizing networks.
 
-3. **Dynamic Density Routing**: Traffic flows adapt based on both spatial and temporal density metrics, resulting in optimal distribution across all four dimensions.
+## Defensive Publication
+This document serves as prior art and blocks patent claims on these architectures and methods.
 
-4. **Temporal Addressing**: Network addresses incorporate explicit temporal components, allowing for time-based routing decisions.
-
-5. **Isomorphic Transformation**: Network problems can be transformed between spatial and temporal domains to reveal simpler solutions.
-
-## 2. Mathematical Model
-
-### 2.1 Spatiotemporal Network Formalization
-
-A spatiotemporal network is formally defined as a directed graph G(V, E, T) where:
-
-- V is the set of spatial nodes
-- E is the set of edges connecting nodes
-- T is a temporal dimension across which both V and E can vary
-
-The network state at time t is denoted G(t) = (V(t), E(t)).
-
-### 2.2 Spatiotemporal Routing
-
-The optimal path P from node a to node b minimizes a spatiotemporal metric:
+---
+Published: 2025-05-20 14:11:44  
+Author: Amorion-research
