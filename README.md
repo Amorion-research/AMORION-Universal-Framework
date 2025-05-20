@@ -22,7 +22,17 @@ AMORION is an open, modular, and extensible framework designed to provide a theo
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+## License
+
+AMORION is licensed under the [Anti-Patent License](https://anti-patent.org/). 
+
+This license explicitly:
+- Forbids any patents on AMORION's content, methodologies, or implementations
+- Prevents anyone from restricting others' free use of AMORION
+- Ensures that AMORION remains freely available for all of humanity
+- Requires that all recipients agree not to seek patents on any aspect of AMORION
+
+By using the Anti-Patent License, we ensure that AMORION's mathematical approaches to peace and sustainability remain open and available to all, protected from any form of exclusive rights..
 
 ## Contact
 
