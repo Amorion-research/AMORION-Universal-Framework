@@ -1,6 +1,12 @@
-Anti-Patent License Version 1
+# Anti-Patent License Version 1.1
 
 Copyright (c) 2025 Philip Devéus, on behalf of humanity.
+
+INTRODUCTION:
+This document describes the principles of "Amorion Technology" which includes:
+(1) Temporal Security, (2) Entropic Information Security, (3) Spatio-temporal
+Network Architecture, (4) Information-theoretical Reduction, and (5) Trans-domain
+Architecture, as detailed in the accompanying documentation.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in
@@ -27,6 +33,17 @@ so, subject to the following conditions:
 4. Receipt of the Software constitutes acceptance of this license and all of its
    terms.
 
+5. EXISTING PATENTS
+   a) This license does NOT constitute a license or warranty against existing patents
+      that may cover parts of Amorion technology and are held by third parties.
+   b) If an existing patent is identified as overlapping with Amorion technology:
+      i.  Recipients are encouraged to share information about such patents with other
+          users of Amorion technology.
+      ii. Recipients are encouraged to collaborate to challenge invalid patents
+          or develop alternative implementations.
+   c) This defensive publication is intended to prevent FUTURE patents on
+      the principles of the technology, but cannot invalidate existing patents.
+
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
@@ -34,3 +51,7 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+Current Date and Time (UTC): 2025-05-20 12:38:22
+Current User's Login: Amorion-research
