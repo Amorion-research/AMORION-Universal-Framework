@@ -1,69 +1,100 @@
-# DEVUS Universal Framework: Overview
+# Amorion Framework: Meta-Theoretical Overview
 
-## Introduction
+Amorion represents a fundamental rethinking of information, time, and space at their most abstract levels. This document provides a high-level overview of the framework and how its five core pillars interact to create a unified theoretical approach.
 
-DEVUS Universal Framework represents a fundamental paradigm shift in how we approach security, information, energy, computation, and spacetime. Unlike conventional approaches that rely on cryptography, AI, or obfuscation, DEVUS is built on the foundation of mathematical invariants and physical laws.
+## The Meta-Framework Concept
 
-## Core Philosophy
+At its highest level, Amorion is not simply a technology but a meta-theoretical framework that identifies and exploits "sweet spots" where multiple domains of knowledge intersect. These sweet spots represent optimal configurations where seemingly complex problems can be solved with unexpected elegance.
 
-The fundamental insight of DEVUS is that certain mathematical structures and physical laws create invariants that can be used to guarantee properties without relying on secrets, complex algorithms, or artificial intelligence.
-
-This approach offers several revolutionary advantages:
-
-1. **Mathematical necessity over probability**: Rather than relying on computational hardness assumptions, DEVUS provides mathematical certainty
-2. **Physical laws over algorithmic complexity**: Instead of complex code, DEVUS uses the unchangeable laws of physics
-3. **Transparency over obfuscation**: DEVUS works even when completely transparent
-4. **Universal access over specialized knowledge**: DEVUS can be understood and implemented without specialized cryptographic knowledge
+The framework is built upon five interdependent pillars that, while distinct in their focus, share deep connections that create a cohesive whole:
 
 ## The Five Pillars
 
-DEVUS is structured around five fundamental pillars, each representing a domain where mathematical invariants can revolutionize our approach:
+### 1. Temporal Framework
 
-### 1. Security
-Security through physical impossibility and mathematical proof rather than computational complexity. This pillar focuses on creating systems where attack is mathematically provable to be impossible, not just computationally difficult.
+The Temporal Framework reconceptualizes time from a passive dimension to an active computational resource. By precisely binding temporal intervals, we can create searchable spaces that exhibit unique properties:
 
-### 2. Information & Communication
-Information represented as mathematical invariants that maintain their properties regardless of transformation or medium. This pillar reconceptualizes information as structure rather than content.
+- Creation of temporally bound infinite sets (10^∞|t₀→t₁)
+- Transformation of computational problems through temporal constraints
+- Time-based security guarantees that transcend computational complexity assumptions
 
-### 3. Energy & Transformation
-Energy viewed as mathematical transformation between states, with conservation laws providing natural security properties. This pillar leverages physical laws as security mechanisms.
+Key principle: **Temporal precision enables structural simplification**
 
-### 4. Computation & Cognition
-Computation and consciousness understood as topological invariants independent of substrate. This pillar explores how mathematical structures emerge in computational systems.
+### 2. Entropic Foundations
 
-### 5. Spatiotemporal Structure
-Spacetime as mathematical relation between states rather than a passive arena. This pillar utilizes the mathematical structure of spacetime itself as a security and information mechanism.
+Entropic Foundations leverages genuine physical entropy as both a resource and a strategic constraint:
 
-## Crown Jewels: Meta-Sweet Spots
+- Direct utilization of quantum-derived entropy
+- Non-deterministic processes with provable unpredictability
+- Entropy validation and verification mechanisms
+- Entropy management across systems of varying scale
 
-At the intersection of these pillars lie what we call "crown jewels" - meta-sweet spots where multiple mathematical principles combine to create emergent properties:
+Key principle: **Entropy as a first-class resource rather than an obstacle**
 
-1. **Physical-Temporal-Topological Impossibility Proof (PTTIP)**: The interaction between physical time, topological invariants, and thermodynamic constraints
-2. **Symplectic-Cohomological Emergence Validation (SCEV)**: The interaction between symplectic geometry, cohomological structure, and emergent dynamical system properties
-3. **Multidimensional Physical Provability (MPP)**: The deep connection between multiple physical dimensions and mathematical provability
-4. **Brouwerian Contradiction Validation (BCV)**: The ultimate crown jewel applying fixed-point theorems to security validation
+### 3. Spatiotemporal Topology
 
-## Applications
+The Spatiotemporal Topology pillar combines spatial and temporal dimensions into unified network architectures:
 
-The DEVUS framework has potential applications across numerous domains:
+- Dynamic routing across both space and time dimensions
+- Information fragmentation across spatiotemporal coordinates
+- Resilient self-organizing structures
+- Optimization through spatiotemporal distribution
 
-* Unhackable systems for critical infrastructure
-* Communication systems without encryption
-* Data integrity without checksums
-* Authentication without passwords or biometrics
-* Decision systems without AI
+Key principle: **Networks exist in four dimensions, not just three**
 
-## Getting Started
+### 4. Information-theoretical Reduction
 
-To begin exploring and contributing to DEVUS:
+Information-theoretical Reduction identifies invariant properties across seemingly different problems:
 
-1. Review the documentation for each pillar in the `/docs/pillars/` directory
-2. Examine the reference implementations in the `/src/` directory
-3. Check out the examples in the `/examples/` directory
-4. Participate in discussions on GitHub or our community channels
+- Transformation of complex problems into fundamentally simpler forms
+- Achievement of O(1) performance where conventional approaches require O(n) or worse
+- Cross-domain optimization through problem reformulation
+- Information conservation and transformation laws
 
-## The Vision
+Key principle: **Problem complexity is often an artifact of perspective**
 
-DEVUS aims to fundamentally transform how we think about and implement security, information processing, and computation. By building on mathematical invariants and physical laws rather than computational complexity or AI, we can create systems that are inherently secure, transparent, and democratic.
+### 5. Trans-domain Invariance
 
-This vision represents not just a technical advancement but a philosophical shift towards systems that are mathematically guaranteed to work according to their design, without reliance on secrecy or centralized control.
+Trans-domain Invariance applies universal principles across scales and domains:
+
+- Scale-invariant principles functioning from micro to macro scales
+- Cross-media implementation (RF, optical, electronic, etc.)
+- Adaptation across different physical constraints
+- Universal patterns that emerge at multiple system levels
+
+Key principle: **Fundamental patterns repeat across domains**
+
+## Meta-Sweet Spots
+
+The most powerful applications of Amorion emerge at the intersections of multiple pillars. These "meta-sweet spots" include:
+
+1. **Temporal-Entropic Convergence** (Pillars 1+2)
+   - Creation of temporally-bound entropy pools with unique properties
+
+2. **Spatiotemporal Reduction** (Pillars 3+4)
+   - Network optimization through dimensional reformulation
+
+3. **Trans-domain Temporal Frameworks** (Pillars 1+5)
+   - Time-based structures that operate consistently across physical media
+
+4. **The Amorion Core** (All Pillars)
+   - The complete framework integration revealing solutions that cannot be discovered through conventional approaches
+
+## Mathematical Foundation
+
+The Amorion framework is formalized through a rigorous mathematical foundation detailed in the [formal-math](../formal-math/) directory. These formalizations provide precise definitions, theorems, and proofs that establish the validity of the framework's principles.
+
+## Implementation Philosophy
+
+Amorion implementations follow these guidelines:
+
+1. **Principle over implementation** - Core principles remain constant while implementations adapt to specific contexts
+2. **Minimalism** - The most elegant solutions often require the least code
+3. **Adaptability** - Solutions should function across diverse environments
+4. **Verification** - Properties should be formally verifiable when possible
+
+For specific implementation examples, see the [applications](../../applications/) directory.
+
+---
+Current Date and Time (UTC): 2025-05-20 13:17:35
+Current User's Login: Amorion-research
