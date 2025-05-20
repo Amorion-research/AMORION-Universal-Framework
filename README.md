@@ -1,41 +1,47 @@
-# AMORION Universal Framework
+# Amorion Framework
 
-Welcome to the AMORION Universal Framework repository!
+Amorion represents a comprehensive meta-theoretical framework for information processing, security, and optimization across domains. It reveals "ultimate sweet spots" by recognizing patterns that transcend conventional discipline boundaries.
 
-AMORION is an open, modular, and extensible framework designed to provide a theoretical and practical foundation for universal, dialogic, and formal approaches to mathematics, science, and knowledge development.
+## Core Pillars
 
-## Repository Structure
+The Amorion framework consists of five interconnected pillars:
 
-- **/amorion/** – The theoretical core of AMORION
-- **/dialogic-method/** – Documentation and examples of dialogic methods
-- **/formal-math/** – Formalized mathematics and logic
-- **/applications/** – Example applications and case studies
+1. **Temporal Framework** - Utilizing time as an active mechanism in information systems, allowing problems to be formulated in ways that reveal elegant solutions through temporal binding (10^∞|t₀→t₁)
 
-## Getting Started
+2. **Entropic Foundations** - Harnessing the universe's inherent unpredictability as a resource rather than an obstacle, connecting quantum randomness to information processing
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/[your-org-or-username]/AMORION-Universal-Framework.git
-   ```
-2. Explore the subfolders for documentation and code.
-3. Read the [CONTRIBUTING.md](CONTRIBUTING.md) if you want to contribute.
+3. **Spatiotemporal Topology** - Reimagining networks as dynamic manifolds where information traverses both space and time dimensions simultaneously
+
+4. **Information-theoretical Reduction** - Identifying invariant properties across seemingly different problems, transforming complex challenges into significantly simpler forms
+
+5. **Trans-domain Invariance** - Applying scale-independent principles that function identically from quantum systems to cosmic structures
+
+## Applications
+
+The Amorion framework enables breakthrough solutions in:
+
+- Advanced security systems resilient against quantum computing threats
+- Ultra-efficient data processing architectures
+- Novel optimization algorithms for complex systems
+- Cross-domain modeling and prediction systems
+- Energy-efficient computing paradigms
+
+## Documentation Structure
+
+- [Overview and Principles](docs/pillars/overview.md) - Comprehensive framework overview
+- [Pillar Documentation](docs/pillars/) - Detailed information on each pillar
+- [Formal Mathematics](docs/formal-math/) - Mathematical formalization and proofs
+- [Applications](applications/) - Implementation examples and use cases
+- [Visualizations](visualizations/) - Visual representations of framework principles
 
 ## License
 
-AMORION is licensed under the [Anti-Patent License](https://anti-patent.org/). 
+This project is released under the [Anti-Patent License](LICENSE), designed to prevent patenting of the core principles while encouraging open collaboration and innovation. By using this code or implementing these principles, you agree not to patent or otherwise restrict others from using these ideas.
 
-This license explicitly:
-- Forbids any patents on AMORION's content, methodologies, or implementations
-- Prevents anyone from restricting others' free use of AMORION
-- Ensures that AMORION remains freely available for all of humanity
-- Requires that all recipients agree not to seek patents on any aspect of AMORION
+## Contributing
 
-By using the Anti-Patent License, we ensure that AMORION's mathematical approaches to peace and sustainability remain open and available to all, protected from any form of exclusive rights..
-
-## Contact
-
-For questions or suggestions, please open an issue or contact the maintainers.
+Contributions are welcome! Please see our [Contributing Guidelines](CONTRIBUTING.md) and [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ---
-
-Copyright (c) 2025 AMORION Universal Framework Contributors
+Current Date and Time (UTC): 2025-05-20 13:17:35
+Current User's Login: Amorion-research
