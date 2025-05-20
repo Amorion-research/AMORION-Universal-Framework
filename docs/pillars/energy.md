@@ -1,27 +1,27 @@
-# Entropiska grundvalar
+# Entropic Foundations
 
-Denna publikation beskriver hur fysisk och kvantmekanisk entropi används som resurs för säkerhet, slumpgenerering och effektivisering. Allt är detaljerat för att omöjliggöra patent på dessa tillvägagångssätt.
+This publication details how physical and quantum entropy is harnessed as a resource for security, randomization, and efficiency. All methods are described in such detail that patenting these approaches is rendered impossible.
 
-## Principer
-- Entropi som resurs: Fysisk entropi utnyttjas i systemarkitektur och algoritmik.
-- Multikällig entropisk sammanslagning: Flera fysiska källor kombineras för maximal oförutsägbarhet.
-- Entropiverifiering: Statistiska och fysikaliska tester säkerställer entropikvalitet.
-- Energi–entropibalans: Optimering mellan energiåtgång och entropiproduktion.
-- Entropidriven informationsbehandling: Slumpen integreras explicit i beräkningsflöden.
+## Principles
+- Entropy as a resource: Physical entropy is leveraged in system architecture and algorithmics.
+- Multi-source entropic merging: Multiple physical sources are combined for maximal unpredictability.
+- Entropy validation: Statistical and physical tests guarantee entropy quality.
+- Energy–entropy balance: Optimization between energy expenditure and entropy production.
+- Entropy-driven information processing: Randomness is explicitly integrated in computational flows.
 
-## Modell
-Entropikvalitet H(S) = -Σ p(x_i) log₂ p(x_i) - B(S), där B(S) = biaskorrigering.
+## Model
+Entropy quality H(S) = -Σ p(x_i) log₂ p(x_i) - B(S), where B(S) is a bias correction.
 
-## Implementerbarhet
-- Arkitektur för entropisk sammanslagning och validering beskrivs så att implementation är möjlig för fackman.
-- Exempel: Statistiska tester, källhantering, och vitningsalgoritmer.
+## Implementability
+- Architectures for entropic merging and validation are described for implementation by a skilled practitioner.
+- Examples: Statistical tests, source management, and whitening algorithms.
 
-## Tillämplighet
-- Kvantresilient kryptografi, energieffektiva algoritmer och distribuerade system.
+## Applicability
+- Quantum-resilient cryptography, energy-efficient algorithms, and distributed systems.
 
-## Defensiv publicering
-Publikationen utgör prior art för alla tekniker, metoder och arkitekturer som beskrivs här.
+## Defensive Publication
+This publication constitutes prior art for all techniques, methods, and architectures described herein.
 
 ---
-Publicerad: 2025-05-20 14:05:21  
-Författare: Amorion-research
+Published: 2025-05-20 14:11:44  
+Author: Amorion-research
