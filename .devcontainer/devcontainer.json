@@ -1,0 +1,11 @@
+# Basimage med Python 3.10
+FROM python:3.10
+
+# Installera nödvändiga paket
+RUN apt-get update && \
+    apt-get install -y podman git curl && \
+    pip install --upgrade pip && \
+    pip install numpy scikit-learn sympy ansible
+
+# Ange arbetskatalog
+WORKDIR /workspaces/amorion-platform
